@@ -1,3 +1,0 @@
-git add index.html
-git commit -m"My 1commit"
-git push <form action="C:\Users\NPC Library\Desktop\emmy\Mugisha146.github.io\Bizzou.html">
